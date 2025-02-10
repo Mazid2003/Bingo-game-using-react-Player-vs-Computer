@@ -1,1 +1,41 @@
+For this React Bingo Game to run properly, you need the following:
 
+1️⃣ Install Dependencies
+
+Ensure you have Node.js installed. Then, inside your React project folder, run:
+
+"npm install"
+
+2️⃣ React Setup
+
+If you haven't created a React app yet, create one using:
+
+"npx create-react-app bingo-game"
+
+"cd bingo-game"
+
+Then, replace src/App.js with your code.
+
+3️⃣ Tailwind CSS (Optional, for Styling)
+
+You're using Tailwind classes (bg-gray-100, text-lg, etc.), so install Tailwind:
+
+"npm install -D tailwindcss postcss autoprefixer"
+
+"npx tailwindcss init -p"
+
+Then, add Tailwind to src/index.css or tailwind.config.js as per Tailwind setup.
+
+4️⃣Run the App
+
+Once everything is set up, start your React app:
+
+"npm start"
+
+Now your Bingo Game should run smoothly! 🎉 Let me know if you need any debugging help. 🚀
+
+If you are facing an error called web-vitals not found after running your app
+
+then you need to install the "web-vitals package"
+
+"npm install web-vitals"

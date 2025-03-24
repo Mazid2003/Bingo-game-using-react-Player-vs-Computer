@@ -42,7 +42,11 @@ JavaScript (Logic & AI): Handles the Bingo logic, number selection, and winner d
 
 You can fork & clone this project from GitHub and play Bingo against an AI opponent!
 
-📜 License
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
+**📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
 modify it! 🚀

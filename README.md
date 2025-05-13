@@ -42,6 +42,8 @@ JavaScript (Logic & AI): Handles the Bingo logic, number selection, and winner d
 
 ![screenshot_2025-05-13_10-01-21](https://github.com/user-attachments/assets/6d163ca1-b747-4700-b05f-1ec0afa1d1a6)
 
+![screenshot_2025-05-13_10-03-06](https://github.com/user-attachments/assets/d91be317-748d-46bd-b343-345dcfef26b4)
+
 **🏆 Want to Try It Out?**
 
 You can fork & clone this project from GitHub and play Bingo against an AI opponent!

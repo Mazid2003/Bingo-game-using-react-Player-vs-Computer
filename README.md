@@ -62,6 +62,14 @@ Open the game in your browser at http://localhost:3000/ 🎮
 
 ![screenshot_2025-05-13_10-03-06](https://github.com/user-attachments/assets/d91be317-748d-46bd-b343-345dcfef26b4)
 
+**🎯 Future Improvements**
+
+🔹 Add a single-player mode against an AI opponent.
+
+🔹 Implement multiplayer support using WebSockets.
+
+🔹 Improve UI with animations and sound effects.
+
 **🏆 Want to Try It Out?**
 
 You can fork & clone this project from GitHub and play Bingo against an AI opponent!

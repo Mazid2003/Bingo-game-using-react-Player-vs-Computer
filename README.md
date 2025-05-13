@@ -38,7 +38,7 @@ CSS : For sleek, responsive design.
 
 JavaScript (Logic & AI): Handles the Bingo logic, number selection, and winner detection.
 
-🚀 Installation & Setup
+**🚀 Installation & Setup**
 
 Clone the repository:
 
@@ -46,7 +46,7 @@ git clone https://github.com/Mazid2003/Bingo-game-using-react-Player-vs-Computer
 
 cd bingo-game
 
-Install dependencies:
+### Install dependencies:
 
 npm install
 

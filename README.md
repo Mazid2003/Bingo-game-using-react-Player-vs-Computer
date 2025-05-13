@@ -38,6 +38,10 @@ CSS : For sleek, responsive design.
 
 JavaScript (Logic & AI): Handles the Bingo logic, number selection, and winner detection.
 
+**Screenshots**
+
+![screenshot_2025-05-13_10-01-21](https://github.com/user-attachments/assets/6d163ca1-b747-4700-b05f-1ec0afa1d1a6)
+
 **🏆 Want to Try It Out?**
 
 You can fork & clone this project from GitHub and play Bingo against an AI opponent!
